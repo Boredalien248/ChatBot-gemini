@@ -70,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 A .env file is needed to run this app properly. Please procure an API key from https://aistudio.google.com/app/apikey and then make a file called .env and paste this GEMINI_API_KEY=YOUR_API_KEY_HERE
+
+Run the server using the following command: node server.js. Server needs to be running for the app to work. 
